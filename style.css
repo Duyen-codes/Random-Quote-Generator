@@ -41,4 +41,5 @@ button {
     cursor: pointer;
     float: right;
     margin-top: 1rem;
+    border: none;
 }
